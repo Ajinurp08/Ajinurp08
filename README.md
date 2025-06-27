@@ -30,11 +30,9 @@
 
 ---
 
-### 📊 Statistik GitHub
-
+### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinurprasetyo&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinurprasetyo&layout=compact&theme=github_dark" height="150" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ajinug1408&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
